@@ -1,3 +1,2 @@
+my function 2{}
 my function(){} my
-sua code
-code
