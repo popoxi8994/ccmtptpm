@@ -1,7 +1,4 @@
+my function 2{}
 my function(){} my
-
-them code
-
 sua code
 code
-
